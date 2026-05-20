@@ -1,4 +1,3 @@
-# Microdados_SINAN-DATASUS
 # 🩺 DATASUS SINAN-VIOL Pipeline
 
 > **Pipeline automatizado de download, conversão e compressão dos microdados de Violência Doméstica, Sexual e/ou Outras Violências do SINAN/DATASUS (2009–2025)**
